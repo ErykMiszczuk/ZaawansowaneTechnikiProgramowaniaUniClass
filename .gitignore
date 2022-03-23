@@ -1,0 +1,9 @@
+# Ignore linux execs
+*
+!*.*
+!*/
+
+# Ignore other files
+*.pdf
+*.zip
+*.7z
