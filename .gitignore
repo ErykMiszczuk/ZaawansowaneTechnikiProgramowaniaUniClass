@@ -2,6 +2,7 @@
 *
 !*.*
 !*/
+!Makefile
 
 # Ignore other files
 *.pdf
